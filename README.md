@@ -2,6 +2,8 @@
 
 The original repository can be found [here](https://gitlab-research.centralesupelec.fr/stergios.christodoulidis/text-flappy-bird-gym).
 
+You will find the whole code report [here](https://github.com/GabrielBeFr/Individual-Assignment-RL/blob/main/code.ipynb).
+
 ## Text Flappy Bird for OpenAI Gym
 
 This repository contains the implementation of two OpenAI Gym learning environments of a simple unit-element player version of the Flappy Bird. The code base is heavily borrows from the [flappy-bird-gym](https://github.com/Talendar/flappy-bird-gym) repository.
